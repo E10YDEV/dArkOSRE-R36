@@ -14,6 +14,13 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
 
+## Prelease Version
+- Testing only, there is a significant amount of work to be done on the emulated systems' fine-tuning and user documentation.
+- See the Wiki for completed outcomes.
+- If you are using a second SD Card, ensure you read the instructions in the Wiki and delete the controls.ini, ppsspp.ini and ppsspp.ini.sdl out of the /psp/ppsspp folder.
+
+[Mega](https://mega.nz/file/Zu5zxIDJ#GGBFBGPZr9GAM96ebBLWtJvKWWjOTsRne6wRB3YPv1U)
+
 ## ✅ What's Working
 
 - Screen
