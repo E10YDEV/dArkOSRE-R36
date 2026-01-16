@@ -198,9 +198,13 @@
       <menuBackground name="menubg">
          <pos>0 0</pos>
          <size>1 1</size>
-         <color>36083E30</color>
-         <centerColor>36083E30</centerColor>
+         <color>36083E50</color>
+         <centerColor>36083E50</centerColor>
          <cornerSize>5 5</cornerSize>
       </menuBackground>
+      <menuTextEdit name="menutextedit">
+         <inactive>./_inc/images/textinput_inactive.png</inactive>
+         <active>./_inc/images/textinput_active.png</active>
+      </menuTextEdit>
   </view>
 </theme>
