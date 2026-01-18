@@ -13,8 +13,8 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
 
-## Prelease Version - [Mega](https://mega.nz/file/UqZinKLS#qRYInVNWty_EFHvcynT-ZrmNC1E1oGuP--YquMq6UaM)
-- Hash - 01DADB2FC8FCD274C50EBD9ED515198A05A95CF8
+## Prelease Version - [Mega](https://mega.nz/file/gqwQjQpS#VdtE8CBKT4ODqXWeDWQ9DJtHUduuaaZyoSbj22hdwnQ)
+- Hash - 811B5E3AB88A6C7C8E738CCCB4D9B9E311AC7493
 - dArkOS 01142026 Version 
 - Testing only, with work to be done on the emulated systems' fine-tuning and user documentation.
 - See the [Wiki](https://github.com/southoz/dArkOS-G80CA-RE/wiki) for completed items.
