@@ -15,7 +15,7 @@ Confirmed working with:
 - G80CA-MB V1.3-20251212 Panel 8
 
 In development:
-- G80C-MB V1.1-20250319 (Working in kernel, uBoot is not initialising screen and showing logo - should be released shortly)
+- G80C-MB V1.1-20250319 (Working in kernel; however uboot still needs work, so the logo is not showing - should be released shortly)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
