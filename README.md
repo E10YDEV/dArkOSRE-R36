@@ -16,6 +16,7 @@ Confirmed working with:
 
 In development:
 - G80C-MB V1.1-20250319 (Working in kernel; however uboot still needs work, so the logo is not showing - should be released shortly)
+- Kodi Testing Pre-release is available from [here](https://github.com/southoz/dArkOS-G80CA-RE/releases/tag/dArkOS-G80CA-RE(01242026)_Pre).
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
