@@ -20,7 +20,7 @@ Confirmed working with:
 
 In development:
 - G80C-MB V1.1-20250319 - Working in kernel; however uboot still needs work, so the logo is not showing. If you want to test and are happy with a blank screen during boot, the DTB files are available [here](https://mega.nz/file/JyJzzJRC#OCmARcO1--IHTTndr8V3TzdyQZpwQ0u_58JtqShqt-M)
-- Kodi Testing Pre-release is available from [here](https://github.com/southoz/dArkOS-G80CA-RE/releases/tag/dArkOS-G80CA-RE(01242026)_Pre).
+- Plenty of systems to test and Document.
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
