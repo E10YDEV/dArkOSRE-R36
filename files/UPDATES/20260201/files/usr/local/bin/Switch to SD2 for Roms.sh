@@ -95,6 +95,7 @@ then
   sed -i '/roms\//s//roms2\//g'  /home/ark/.config/duckstation/settings.ini
   sed -i '/roms\/bios/s//roms2\/bios/g' /opt/amiberry/conf/amiberry.conf
   sed -i '/.\/351Files 2/s//.\/351Files-sd2 2/g' /opt/system/351Files.sh
+  sed -i 's/roms/roms2/g' /opt/drastic/resources/settings.json
   sqlite3 /home/ark/.kodi/userdata/Database/MyVideos131.db "UPDATE path SET strPath = REPLACE(strPath, '/roms/movies', '/roms2/movies');"
   sqlite3 /home/ark/.kodi/userdata/Database/MyMusic83.db "UPDATE path SET strPath = REPLACE(strPath, '/roms/music', '/roms2/music');"
   sed -i '/roms\//s//roms2\//g' /home/ark/.kodi/userdata/sources.xml
@@ -193,7 +194,7 @@ then
   fi
   if [ ! -d "/roms2/gametank/" ]; then
       sudo mkdir /roms2/gametank
-  fi
+  fi							  
   sudo pkill filebrowser
   filebrowser -d /home/ark/.config/filebrowser.db users update ark --scope "/roms2"
   printf "\n\n\e[32m$filesystem sdcard in slot2 is mounted to /roms2...\n"
