@@ -16,14 +16,14 @@
 
 Confirmed working with:
 - G80C-MB V1.1-20250319 Panel 8
-- G80C-MB V1.1-20250319 Panel 9
+- G80C-MB V1.1-20250319 Panel 9 thanks to filthyc0mmie
 - G80CA-MB V1.2-20250422 Panel 8
 - G80CA-MB V1.2-20250422 Panel 9
 - G80CA-MB V1.2-20250423 Panel 8
 - G80CA-MB V1.2-20250423 Panel 9 
-- G80CA-MB V1.3-20251212 Panel 8
+- G80CA-MB V1.3-20251212 Panel 8 thanks to Robadel
 - R36S-V12 02023-08-18 [Variant 1](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18%20EMMC) with EMMC and AMP thanks to @erraja97
-- R36S-V12 02023-08-18 [Variant 2](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18)
+- R36S-V12 02023-08-18 [Variant 2](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18) thanks to SethZero
 
 In development:
 - Plenty of systems to test and Document.
