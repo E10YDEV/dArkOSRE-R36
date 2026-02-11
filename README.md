@@ -25,6 +25,8 @@ Confirmed working with:
 - R36S-V12 2023-08-18 [Variant 1](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18/Variant%201) with EMMC and AMP thanks to @erraja97
 - R36S-V12 2023-08-18 [Variant 2](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18/Variant%202) thanks to SethZero
 
+Please note that with the R36S-V12, the testers reported no audio issues, but some users found the devices muted. A deep analysis shows there is a lot of work to do on the dtb files and pinctrl terminations. In the short term, double-tap the power button if your device has no audio. 
+
 In development:
 - R36S-V20 2025-05-18 [736MB RAM](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V20%202025-05-18/768MB) thanks to GreatestGoon (Long first boot).
 - Plenty of systems to test and Document.
