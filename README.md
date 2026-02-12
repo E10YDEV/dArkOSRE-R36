@@ -4,8 +4,8 @@
 <img width="408" height="640" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
 </p>
 
-**Customised dArkOS build optimized for G80CA / G80CA-MB devices**  
-(RK3326-based R36S/RG351MP-style clones)
+**Customised dArkOS build optimized for some clones including G80CA / G80CA-MB devices and genuine R36S devices**  
+(RK3326-based RG351MP clones)
 
 <p align="center">
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/ea2ce915-3735-4c09-8e9d-bdbc6212df9b" /> &emsp; <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/7ca0ee9e-2727-40f9-859e-1a731a485425" /> 
@@ -14,7 +14,7 @@
 - This version of [dArkOS](https://github.com/christianhaitian/dArkOS) is customised for the best experience on G80CA hardware.
 - **Guaranteed Virus and Malware free** - Scanned with 4th Feb 2026 ClamAV Daily update.
 
-Confirmed working with:
+Confirmed working with R36S Clones:
 - G80C-MB V1.1-20250319 [Panel 8](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/G80C-MB%20V1.1-20250319/Panel8)
 - G80C-MB V1.1-20250319 [Panel 9](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/G80C-MB%20V1.1-20250319/Panel9) thanks to filthyc0mmie
 - G80CA-MB V1.2-20250422 Panel 8
@@ -24,6 +24,9 @@ Confirmed working with:
 - G80CA-MB V1.3-20251212 Panel 8 thanks to Robadel
 - R36S-V12 2023-08-18 [Variant 1](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18/Variant%201) with EMMC and AMP thanks to @erraja97
 - R36S-V12 2023-08-18 [Variant 2](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V12%202023-08-18/Variant%202) thanks to SethZero
+
+Confirmed working with Genuine R36S devices:
+- R36S-V21 2024-12-18 
 
 Please note that with the R36S-V12, the testers reported no audio issues, but some users found the devices muted. A deep analysis shows there is a lot of work to do on the dtb files and pinctrl terminations. In the short term, double-tap the power button if your device has no audio. 
 
