@@ -40,6 +40,7 @@ In development:
 - Advanced Drastic
 - Kodi 21.3
 - Wi-Fi
+- USB Tethering (USB C to USB A adapter)
 - Joystick with per-emulator controls updates and hotkeys.
 - Function button support (Menu).
 - Sound (speakers + headphones)
