@@ -24,9 +24,13 @@ Confirmed working with R36S Clones:
 - G80CA-MB V1.3-20251212 Panel 8 thanks to Robadel
 - [R36S-V12 2023-08-18 Variant 1](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) with EMMC and AMP thanks to @erraja97
 - [R36S-V12 2023-08-18 Variant 2](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) thanks to SethZero
+- [R36S-V12 2023-08-18 Variant 3](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) thanks to Ace007186
 
 Confirmed working with Genuine R36S devices:
-- [R36S-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) 
+- [R36S-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)
+
+Confirmed Working, but I have created an issue by using the Function Button for emulator Menus
+- R36H thanks to xgenmann
 
 In development:
 - R36S-V20 2025-05-18 [736MB RAM](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V20%202025-05-18/768MB) thanks to GreatestGoon (Long first boot).
