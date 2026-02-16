@@ -28,7 +28,7 @@ Confirmed working with R36S Clones:
 
 Confirmed working with Genuine R36S devices:
 - [R36S-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)
-- [Y3506_V04_20250529](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) thanks to Rokumaehn
+- [Y3506_V04_20250529](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Rokumaehn
 
 Confirmed Working, but I have created an issue by using the Function Button for emulator Menus
 - R36H thanks to xgenmann
