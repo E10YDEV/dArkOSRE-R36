@@ -60,7 +60,11 @@ status=$?
   sed -i '/roms2\/bios/s//roms\/bios/g' /opt/amiberry/conf/amiberry.conf
   sed -i '/roms2\//s//roms\//g' /home/ark/.config/scummvm/scummvm.ini
   sed -i '/.\/351Files-sd2 2/s//.\/351Files 2/g' /opt/system/351Files.sh
-  sed -i 's/roms2/roms/g' /opt/drastic/resources/settings.json
+  sed -i 's/roms2/roms/g' /opt/advanceddrastic/resources/settings.json
+  sqlite3 /home/ark/.kodi/userdata/Database/MyVideos131.db "UPDATE path SET strPath = REPLACE(strPath, '/roms2/movies', '/roms/movies');"
+  sqlite3 /home/ark/.kodi/userdata/Database/MyMusic83.db "UPDATE path SET strPath = REPLACE(strPath, '/roms2/music', '/roms/music');"
+  sed -i '/roms2\//s//roms\//g' /home/ark/.kodi/userdata/sources.xml
+  sed -i '/roms2\//s//roms\//g' /home/ark/.kodi/userdata/favourites.xml
   sudo sed -i '/roms2\//s//roms\//g' /roms/psx/duckstation_gamesettings/*.ini
   unlink /opt/hypseus/roms
   ln -sfv /roms/daphne/roms/ /opt/hypseus/roms
