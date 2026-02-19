@@ -17,7 +17,7 @@
 
 ## Supported Systems  
 
-### Clones R36S devices:  
+### Clone R36S devices:  
 - [G80C-MB V1.1-20250319 Panel 8](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) thanks to filthyc0mmie
 - [G80C-MB V1.1-20250319 Panel 9](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones)
 - G80CA-MB V1.2-20250422 Panel 8
