@@ -44,7 +44,7 @@
 - Y3506_V05_20251215 Variant 1 and Variant 2
 
 ### If your system is not listed
-Raise an [issue](https://github.com/southoz/dArkOS-G80CA/issues) with the motherboard ID and attach your original SD card .dtb files and boot.ini in a zip file
+Raise an [issue](https://github.com/southoz/dArkOS-G80CA-RE/issues) with the motherboard ID and attach your original SD card .dtb files and boot.ini in a zip file
 
 ## ✅ Features
 
@@ -67,5 +67,5 @@ Raise an [issue](https://github.com/southoz/dArkOS-G80CA/issues) with the mother
 - [dArkOS main project](https://github.com/christianhaitian/dArkOS) – huge thanks to christianhaitian!
 - Community discussions: r/R36S, r/SBCGaming, Retro Handhelds groups
 
-Feel free to report issues or suggest improvements in the [Issues tab](https://github.com/southoz/dArkOS-G80CA/issues).  
+Feel free to report issues or suggest improvements in the [Issues tab](https://github.com/southoz/dArkOS-G80CA-RE/issues).  
 Happy retro gaming! 🎮
