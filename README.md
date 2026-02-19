@@ -1,12 +1,12 @@
 # dArkOSRE
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
-[![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
-
 <p align="center">
 <img width="204" height="320" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
 </p>
 
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
+[![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
 - **Customised dArkOS build** optimised for R36S devices and clones. 
 
 <p align="center">
