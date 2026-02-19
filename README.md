@@ -37,8 +37,10 @@ Confirmed Working, but I have created an issue by using the Function Button for 
 - R36H thanks to xgenmann
 
 In development:
-- R36S-V20 2025-05-18 [736MB RAM](https://github.com/southoz/dArkOS-G80CA-RE/tree/main/files/DTB/R36S-V20%202025-05-18/768MB) thanks to GreatestGoon (Long first boot).
-- Plenty of systems to test and Document.
+- R36S-V20 2025-05-18 Vatiant 1 and Variant 2
+- Y3506_V05_20251215 Variant 1 and Variant 2
+
+**If your system is not listed raise an [issue](https://github.com/southoz/dArkOS-G80CA/issues) with the motherboard ID and attached your original .dtb files and boot.ini in a zip file**
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-SE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-SE/stargazers)
