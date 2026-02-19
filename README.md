@@ -1,7 +1,7 @@
 # dArkOS-G80CA RetroOZ Edition
 
 <p align="center">
-<img width="408" height="640" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
+<img width="204" height="320" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
 </p>
 
 **Customised dArkOS build** optimised for selected clones and genuine R36S devices. 
