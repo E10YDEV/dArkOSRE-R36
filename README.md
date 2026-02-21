@@ -71,7 +71,7 @@ Raise an [issue](https://github.com/southoz/dArkOS-G80CA-RE/issues) with the mot
 
 ## Important Installation Information
 
-- [Firmware Installation](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation)
+- [Operating System Installation](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation)
 
 ## Related Projects & Thanks
 
