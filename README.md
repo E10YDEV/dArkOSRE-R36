@@ -36,7 +36,7 @@
 
 ### Soysauce R36S devices:
 - [Y3506_V04_20250529](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Rokumaehn
-- [Y3506_V05_20251215 2601](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Pedro
+- [Y3506_V05_20251215 2551](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Pedro
 - [Y3506_V05_20251215 2601](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Lucannus
 
 ### Not fully supported:  
