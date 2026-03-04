@@ -36,11 +36,15 @@
 
 ### Genuine R36S devices:  
 - [R36S Plus-V20 2025-03-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) thanks to skajmer
+- [R36S-V12 2023-08-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)
 - [R36S-V21 2023-08-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) thanks to TLC_097
 - [R36S-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)
+- [R36S-V22 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)
 - [R36XX-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) thanks to Jason3x
 
 ### Soysauce R36S devices:
+- [Y3506_V03_20241104](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s)
+- [Y3506_V03_20250317](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s)
 - [Y3506_V04_20250529](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Rokumaehn
 - [Y3506_V05_20251215 2551](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Pedro
 - [Y3506_V05_20251215 2601](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) thanks to Lucannus
