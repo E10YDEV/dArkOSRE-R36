@@ -45,9 +45,6 @@
 | [Y3506_V05_20251215 2551](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | untested| (untested) |
 | [Y3506_V05_20251215 2601](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | completed | southoz |
 
-### Not fully supported (No Function Button for Emulator Menus by default):  
-- R36H thanks to the champion, xgenmann, for his help to get this **Operating System** working on his device!
-
 ## dArkOS Mods
 - [Bluetooth Manager](https://github.com/Jason3x/Bluetooth-Manager-for-dArkOS-) thanks to Jason_3x, make sure you leave him a star!
 - [Battery Voice Config](https://github.com/Jason3x/Battery-Voice-Config) thanks to Jason_3x
