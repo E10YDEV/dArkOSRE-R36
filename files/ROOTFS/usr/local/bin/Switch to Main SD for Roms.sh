@@ -20,7 +20,6 @@ if [ "$filesystem" = "ntfs" ]; then
 	filesystem="ntfs-3g"
 fi
 
-sudo umount /opt/system/Tools
 sudo mount -t $filesystem /dev/mmcblk1p5 /roms -o uid=1000
 status=$?
 
@@ -29,10 +28,9 @@ status=$?
   if [ ! -d "/roms/videos/" ]; then
       sudo mkdir /roms/videos
   fi
-  sudo mount -B /roms/tools /opt/system/Tools
+  # Tools remain mounted from /roms/tools (main SD) - no remount needed
   sed -i '/<path>\/roms2\//s//<path>\/roms\//' /etc/emulationstation/es_systems.cfg
   sudo sed -i '/roms2\/pico-8/s//roms\/pico-8/g' /usr/local/bin/pico8.sh
-  sudo sed -i '/roms2\/tools/s//roms\/tools/' /etc/fstab
   sudo sed -i '/roms2\//s//roms\//g' /usr/local/bin/scummvm.sh
   sudo sed -i '/roms2\//s//roms\//g' /usr/local/bin/ti99.sh
   sudo sed -i '/roms2\//s//roms\//g' /usr/local/bin/doom.sh
@@ -90,7 +88,7 @@ status=$?
   unlink /home/ark/.config/ppsspp
   ln -sf /roms/psp/ppsspp/ /home/ark/.config/ppsspp
   sudo cp /usr/local/bin/Switch\ to\ SD2\ for\ Roms.sh /opt/system/Advanced/.
-  sudo rm /opt/system/Advanced/Switch\ to\ main\ SD\ for\ Roms.sh
+  sudo rm /opt/system/Advanced/Switch\ to\ Main\ SD\ for\ Roms.sh
   sudo cp -f /etc/samba/smb.conf.orig /etc/samba/smb.conf
   sudo umount /roms2
   sudo pkill filebrowser
