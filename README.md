@@ -27,6 +27,7 @@
 | [R36S-V12 2023-08-18 Panel 4](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) | r36s | :warning: untested |  |
 | [R36S-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) | r36s | :white_check_mark: completed | :white_check_mark: southoz |
 | [R36S-V22 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) | r36s | :warning: untested |  |
+| [R36S-Y02 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) | r36s | :warning: untested |  |
 | [R36S Plus-V20 2025-03-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s) | r36s | :x: development | |
 | [R36XX-V21 2024-12-18](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#genuine-r36s)| r36s | :white_check_mark: completed | :white_check_mark: Jason_3x  |
 | [G80C-MB V1.1-20250319 Panel 8](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones)  | clone  | :warning: untested |  |
@@ -41,10 +42,11 @@
 | [R36S-V12 2023-08-18 Variant 1 Panel 3](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) | clone  | :warning: untested |  |
 | [R36S-V12 2023-08-18 Variant 2 Panel 1](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) | clone  | :warning: untested |  |
 | [R36S-V12 2023-08-18 Variant 3 Panel A](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) | clone  | :white_check_mark: completed | :white_check_mark: southoz |
+| [R36S-V12 2023-08-18 Variant 3 Panel 3](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation/#r36s-clones) | clone  | :white_check_mark: completed | :white_check_mark: dnmnhat |
 | [Y3506_V03_20241104](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :warning: untested |  |
 | [Y3506_v03_20241210](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :warning: untested |  |
 | [Y3506_V03_20250317](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :white_check_mark: completed | :white_check_mark: darrynmelck |
-| [Y3506_V04_20250529](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :warning: testing | :x: reported issue |
+| [Y3506_V04_20250529 2548](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :warning: testing | :x: reported issue |
 | [Y3506_V05_20251215 2551](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :warning: untested |  |
 | [Y3506_V05_20251215 2601](https://github.com/southoz/dArkOS-G80CA-RE/wiki/Firmware-Installation#soy-sauce-r36s) | soysauce   | :white_check_mark: completed | :white_check_mark: southoz |
 
