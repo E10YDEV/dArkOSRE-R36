@@ -38,7 +38,7 @@ if [ "$filesystem" = "ntfs" ]; then
 	filesystem="ntfs-3g"
 fi
 
-sudo umount /opt/system/Tools
+# Keep /opt/system/Tools mounted from main SD - tools are system scripts, not ROMs
 
 if [ "$filesystem" = "ext4" ]; then
    sudo mount -t $filesystem $blklocation /roms2
@@ -61,14 +61,13 @@ then
   if [ ! -d "/roms2/videos/" ]; then
       sudo mkdir /roms2/videos
   fi
-  sudo mount -B /roms2/tools /opt/system/Tools
+  # Tools stay mounted from /roms/tools (main SD) via fstab
   sed -i '/<path>\/roms\//s//<path>\/roms2\//' /etc/emulationstation/es_systems.cfg
   if [ "$filesystem" = "ext4" ]; then
      sudo sed -i '$a\/'"$blklocationforsed"' \/roms2 '"$filesystem"' defaults,nofail,x-systemd.device-timeout=7 0 1' /etc/fstab
   else
      sudo sed -i '$a\/'"$blklocationforsed"' \/roms2 '"$filesystem"' umask=0000,iocharset=utf8,noatime,nofail,x-systemd.device-timeout=7,uid=1000,gid=1000 0 0' /etc/fstab
   fi
-  sudo sed -i '/roms\/tools/s//roms2\/tools/' /etc/fstab
   sudo sed -i '/roms\/pico-8/s//roms2\/pico-8/g' /usr/local/bin/pico8.sh
   sudo sed -i '/roms\//s//roms2\//g' /usr/local/bin/scummvm.sh
   sudo sed -i '/roms\//s//roms2\//g' /usr/local/bin/ti99.sh
