@@ -4,12 +4,11 @@
 <img width="224" height="350" alt="image" src="https://github.com/user-attachments/assets/d0334598-9296-466f-8e6e-4ca2e15daf70" />
 </p>
 
-- **Customised dArkOS build** optimised for R36S devices and clones. 
-- **Guaranteed Virus and Malware free** - Scanned with 7th Feb 2026 ClamAV Daily update.
-   
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/southoz/dArkOS-G80CA-RE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-RE/releases)
 [![GitHub stars](https://img.shields.io/github/stars/southoz/dArkOS-G80CA-RE?style=flat-square)](https://github.com/southoz/dArkOS-G80CA-RE/stargazers)
 
+- **Customised dArkOS build** optimised for R36S devices and clones. 
+- **Guaranteed Virus and Malware free** - Scanned with 7th Feb 2026 ClamAV Daily update.
 - **Help with purchasing new Hardware** - Donations will help increase comptibility.
   
 [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-009cde?logo=paypal&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=XSKKNR837CGE4)
