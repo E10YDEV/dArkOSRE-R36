@@ -18,9 +18,6 @@
   - R36 Max
   - R36 Ultra
   - V20 Clone
- 
-## Donations
-- Donations toward new hardware and testing to help increase compatibility and reduce bugs.  
 
 [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-009cde?logo=paypal&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=XSKKNR837CGE4)
 
